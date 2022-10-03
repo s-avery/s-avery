@@ -1,4 +1,12 @@
-### Hi there 👋
+### 
+
+    👋 Hi, I’m Sadie :~)
+    👀 I’m interested in full-stack web development
+    🌱 I’m currently learning React & TypeScript
+    💞️ I’m looking to collaborate on exciting web apps!
+    📫 You can reach me at s_avery@riseup.net
+
+
 
 <!--
 **s-avery/s-avery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
